@@ -72,6 +72,5 @@ public class Student
     {
         Console.WriteLine($"Ten: {Name}");
         Console.WriteLine($"Tuoi: {Age}");
-        Console.WriteLine("--------------------");
     }
 }
